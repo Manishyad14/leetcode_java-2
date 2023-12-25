@@ -35,6 +35,4 @@ class reverse_bits {
     }
 }
 
-// This code is contributed
-// by prerna saini.
 
